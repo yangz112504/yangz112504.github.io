@@ -82,6 +82,8 @@ a:hover {
     flex-shrink: 0;
     flex-basis: auto;
 }
+
+
 .content-bg{
     background: rgb(255 255 255 / 0.9);
     padding: 30px;
@@ -196,6 +198,14 @@ a:hover {
 }
 .education-item p{
     margin: 0;
+}
+
+/*About Me
+---------------------------------------*/
+.home .img-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
 }
 
 /*FOOTER
