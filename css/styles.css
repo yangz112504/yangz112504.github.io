@@ -1,22 +1,3 @@
-/*
-Color Pallete:
-Kokoda
-#6C6F5A
-
-Polo Blue
-#8EAEC8
-
-Timberwolf
-#D5D3D0
-
-Pigeon Post
-#AFC8D7
-
-Offwhite
-#f6f6f6
-
-*/
-
 /*Global Styles
 ---------------------------------------*/
 html{
@@ -52,7 +33,7 @@ h3{
     font-size: 2.4rem;
 }
 .content-wrapper{
-    /*Auto centers the element equally on left and right
+    /* margin 0 auto auto centers the element equally on left and right
     Max width makes it so content is equal to 100% of its container*/
     margin: 0 auto;
     padding: 30px;
@@ -80,9 +61,13 @@ a:hover {
     line-height: 1;
     border-radius: 4px;
 }
+.format-block{
+    display: block;
+}
 .format-right{
     margin-right: 100px;
 }
+
 
 /*HOME
 ---------------------------------------*/
